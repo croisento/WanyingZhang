@@ -126,7 +126,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.4em;
+		font-size: 1em;
 		letter-spacing: -1px;
 	}
 
@@ -139,7 +139,7 @@ input, select, textarea {
 			}
 
 	h3 {
-		font-size: 1em;
+		font-size: 1.5em;
 	}
 
 	header {
@@ -2112,7 +2112,7 @@ input, select, textarea {
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.7 em;
+			font-size: 0.6em;
 			color: #fff;
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
