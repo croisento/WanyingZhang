@@ -113,7 +113,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		color: #666;
-		line-height: 1.5em;
+		line-height: 2em;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -126,7 +126,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1em;
+		font-size: 1.3em;
 		letter-spacing: -1px;
 	}
 
@@ -2112,9 +2112,9 @@ input, select, textarea {
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.8em;
+			font-size: 0.7em;
 			color: #fff;
-			line-height: 1.8em;
+			line-height: 2em;
 			margin: 0.5em 0 0 0;
 		}
 
