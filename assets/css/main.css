@@ -118,7 +118,7 @@ input, select, textarea {
 	h4, h5, h6 {
 		font-weight: 300;
 		color: #00000;
-		line-height: 0.8em;
+		line-height: 1em;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -226,10 +226,12 @@ input, select, textarea {
 	}
 	.experience {
 		margin-bottom: 30px;
+		text-align: left;
 	}
 
 	.mentor {
 		font-style: italic;
+		text-align: left;
 	}
 
 /* Container */
