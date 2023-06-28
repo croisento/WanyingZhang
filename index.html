@@ -191,19 +191,20 @@
 
 							<p>If you want to know me more, please feel free to contact me :). </p>
 
-							<form method="post" action="send_email.php">
-								<div class="row">
-									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
-									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
-									<div class="col-12">
-										<textarea name="message" placeholder="Message"></textarea>
-									</div>
-									<div class="col-12">
-										<input type="submit" value="Send Message" />
-									</div>
-								</div>
-							</form>
 
+							<!-- modify this form HTML and place wherever you want your form -->
+							<form action="https://formspree.io/f/maygwbll" method="POST">
+								<label>
+									Your email:
+									<input type="email" name="email">
+								</label>
+								<label>
+									Your message:
+									<textarea name="message"></textarea>
+								</label>
+								<!-- your other form fields go here -->
+								<button type="submit">Send</button>
+							</form>
 						</div>
 					</section>
 
