@@ -209,6 +209,13 @@ input, select, textarea {
 	br.clear {
 		clear: both;
 	}
+	.experience {
+		margin-bottom: 30px;
+	}
+
+	.mentor {
+		font-style: italic;
+	}
 
 /* Container */
 
